@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ini",
+				"intit  (variable)"
+			],
+			[
+				"h",
+				"handle"
+			],
+			[
+				"ex",
+				"ExtractIconFrom"
+			],
+			[
+				"sa",
+				"small"
+			],
+			[
+				"q",
+				"QtGui"
+			],
+			[
+				"qt",
+				"QtGui"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ma",
+				"mainWin"
+			],
+			[
+				"mai",
+				"MainWin"
+			],
+			[
+				"ui",
+				"Ui_MainWindow"
+			],
+			[
+				"slo",
+				"slot_1"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"dom",
+				"DOMf"
+			],
+			[
+				"do",
+				"DOMf"
+			],
+			[
+				"new",
+				"newfStr"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"ge",
+				"getDFItemByName"
+			],
+			[
+				"d",
+				"documentElement"
+			],
+			[
+				"l",
+				"linkageClassName"
+			],
+			[
+				"doc",
+				"docNameLink"
+			],
+			[
+				"itm",
+				"itemList"
+			],
+			[
+				"g",
+				"getAttribute"
+			],
+			[
+				"no",
+				"nodeType"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"sq",
+				"sqlCmd"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "May Sickness.py",
+			"settings":
+			{
+				"buffer_size": 686,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "utils/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/pyQT.sublime-build",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build_GUI.py",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Windows",
+				"name": "import sys, os"
+			}
+		},
+		{
+			"file": "GUI.py",
+			"settings":
+			{
+				"buffer_size": 7107,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view/KengListView.py",
+			"settings":
+			{
+				"buffer_size": 883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "May Sickness.ui",
+			"settings":
+			{
+				"buffer_size": 7434,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "utils/IconExtractor.py",
+			"settings":
+			{
+				"buffer_size": 780,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Python27/Lib/site-packages/PyQt4/examples/itemviews/fetchmore.pyw",
+			"settings":
+			{
+				"buffer_size": 4860,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"py",
+				"Python Anywhere Editor: Open File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 293.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python27/Lib/site-packages/PyQt4/examples/widgets/imageviewer.pyw",
+		"/E/Doc/Projects/Python/IconExtractor.py",
+		"/D/Python27/Lib/site-packages/PyQt4/examples/tools/settingseditor/settingseditor.pyw",
+		"/D/Python27/Lib/site-packages/PyQt4/examples/itemviews/simpledommodel.pyw",
+		"/D/Python27/Lib/site-packages/PyQt4/examples/activeqt/webbrowser/webbrowser.pyw",
+		"/E/Doc/Projects/Python/May Sickness/view/GUI.py",
+		"/E/Doc/Projects/Python/May Sickness/__init__.py",
+		"/E/Doc/Projects/Python/May Sickness/view/__init__.py",
+		"/E/Doc/Projects/Python/May Sickness/utils/large.ico",
+		"/E/Doc/Projects/Python/May Sickness/utils/a.ico",
+		"/E/Doc/Projects/Python/May Sickness/.maysickness.sublime-workspace",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/Python/Python.sublime-build",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/Git/Git.sublime-settings",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/Git.sublime-settings",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/E/Doc/Projects/Python/May Sickness/五月病跪.txt",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/E/Doc/Projects/Python/May Sickness/.maysickness.sublime-project",
+		"/E/Doc/Projects/Python/May Sickness/signal.py",
+		"/D/Python27/Lib/site-packages/PyQt4/examples/draganddrop/dropsite.pyw",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/Doc/Projects/Python/May Sickness/May Sickness.pyw",
+		"/E/Doc/Projects/Python/May Sickness/ui_MskengWidget.py",
+		"/D/Python27/Lib/site-packages/PyQt4/examples/activeqt/webbrowser/ui_mainwindow.py",
+		"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/pyQT.sublime-build",
+		"/E/Doc/Projects/Python/五月病/May Sickness2.py",
+		"/E/Doc/Projects/Python/Socks5.py",
+		"/E/Doc/Projects/Python/pycurl-7.19.0.tar/pycurl-7.19.0/README",
+		"/E/Doc/Projects/Python/pycurl-7.19.0.tar/pycurl-7.19.0/INSTALL",
+		"/F/downloads/Cockos.REAPER.v4.30.Incl.Keygen.and.Patch-BRD/Cockos.REAPER.v4.30.Incl.Keygen.and.Patch-BRD/brd.nfo",
+		"/F/downloads/Waves.All.Plugins.Bundle.v9r6-R2R/Waves.All.Plugins.Bundle.v9r6-R2R/R2R.nfo",
+		"/D/Python27/Lib/site-packages/bs4/__init__.py",
+		"/E/Program Files (x86)/REAPER 4261/Scripts/test.py",
+		"/C/Users/Administrator/AppData/Roaming/REAPER/Scripts/test.py",
+		"/E/Doc/Projects/AIR/framework/robotlegs-robotlegs-demos-Bundle-4fc31e7/FlickrImageGallery/tests/org/robotlegs/demos/imagegallery/test/cases/TestFlickrService.as",
+		"/E/Doc/Projects/AIR/CreateSWF/src/CreateSWF.as",
+		"/C/Users/Administrator/Desktop/W_无题春风·二月花.RPP",
+		"/E/SolPie/Projects/W_无题春风·二月花/W_无题春风·二月花-2012-10-14_200158.rpp-bak",
+		"/F/downloads/IK.Multimedia.AmpliTube.3.v3.9.UNLOCKED-R2R/IK.Multimedia.AmpliTube.3.v3.9.UNLOCKED-R2R/R2R.nfo",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res2/LIBRARY/播放器面板.psd.xml",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res/LIBRARY/播放器面板.psd.xml",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res2/NameLink.xml",
+		"/E/Doc/Projects/AIR/ZhaSing/src/Player.mxml",
+		"/C/Users/Administrator/Desktop/pySWF.py",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res2/UILinker.py",
+		"/D/Program Files (x86)/SWFTools/viewers/simple.py",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res2/DOMDocument.xml",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res2/DOMDocument_Bak.xml",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res2/1.xml",
+		"/E/Doc/Projects/AIR/PureZS/src/res/res/DOMDocument.xml",
+		"/C/Users/Administrator/Desktop/post.py",
+		"/C/Users/Administrator/Desktop/server.py",
+		"/C/Users/Administrator/Adobe Flash Builder 4.6/PureZS/src/data/trackList.json",
+		"/C/Users/Administrator/Adobe Flash Builder 4.6/PureZS/src/mvc/model/SongListProxy.as",
+		"/D/Soft/Editor/python/xlrd-0.8.0/xlrd-0.8.0/xlrd/examples/xlrdnameAPIdemo.py",
+		"/C/Users/Administrator/Desktop/GET.py",
+		"/C/Users/Administrator/Desktop/index.php",
+		"/C/Users/Administrator/Desktop/Simpleserver.py",
+		"/C/Users/Administrator/Adobe Flash Builder 4.6/PureZS/src/mvc/controller/OverCommand.as",
+		"/F/downloads/MusicLab.RealGuitar.3.0.1-R2R/MusicLab.RealGuitar.v3.0.1-R2R/R2R.nfo",
+		"/E/Doc/Projects/AIR/MP3_pureMVC_Demo/bin-debug/data/trackList.json",
+		"/F/downloads/Native.Instruments.Kontakt.5.v5.0.3.UNLOCKED-R2R/R2R.nfo"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")\n",
+			"()\n",
+			"class",
+			"ctrl+sp",
+			"drop",
+			"   \n",
+			"kontak",
+			",",
+			"”",
+			"“",
+			"upload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(\"\",",
+			",",
+			"\""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "May Sickness.py",
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "utils/__init__.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/pyQT.sublime-build",
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "build_GUI.py",
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import sys, os",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "GUI.py",
+					"settings":
+					{
+						"buffer_size": 7107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "view/KengListView.py",
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								882,
+								882
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "May Sickness.ui",
+					"settings":
+					{
+						"buffer_size": 7434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 202.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "utils/IconExtractor.py",
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Python27/Lib/site-packages/PyQt4/examples/itemviews/fetchmore.pyw",
+					"settings":
+					{
+						"buffer_size": 4860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.931693989071,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.PythonAnywhereEditor":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 312.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"qt",
+				"/D/Soft/Editor/Sublime Text 2.0.1 x64/Data/Packages/User/pyQT.sublime-build"
+			],
+			[
+				"servic",
+				"tests/org/robotlegs/demos/imagegallery/test/cases/TestFlickrService.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
